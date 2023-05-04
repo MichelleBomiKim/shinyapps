@@ -1,0 +1,13 @@
+name: earthquake1
+title: earthquake1
+username:
+account: michellebomikim
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9025267
+bundleId: 7172062
+url: https://michellebomikim.shinyapps.io/earthquake1/
+when: 1683172059.40131
+lastSyncTime: 1683172059.40132
+asMultiple: FALSE
+asStatic: FALSE
